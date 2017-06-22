@@ -66,6 +66,8 @@ public class Demo {
 		driver.swipe(startX, startY, endX, endY, 5000);
 
 	}
+	
+	// Testing Git push
 
 
 	public void SwipeRight() {
